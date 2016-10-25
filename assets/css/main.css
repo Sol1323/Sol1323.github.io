@@ -29,12 +29,19 @@ text-decoration: none;
 
 }
 
-.recent {
-
+.works {
+float: left;
 
 }
 
-.first {
+.recent {
+background-color: #ccc;
+height: 200px;
+width: 40%;
+}
 
-  
+.first {
+background-color: #ccc;
+height: 200px;
+width: 40%;
 }
