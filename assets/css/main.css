@@ -29,19 +29,20 @@ text-decoration: none;
 
 }
 
-.works {
+/*.works {
 float: left;
 
-}
+}*/
 
-.recent {
+
+
+.works{
 background-color: #ccc;
 height: 200px;
 width: 40%;
 }
 
-.first {
-background-color: #ccc;
-height: 200px;
-width: 40%;
+footer {
+
+clear: both;
 }
