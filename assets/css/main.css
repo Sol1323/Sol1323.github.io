@@ -2,28 +2,39 @@
 body {
 max-width: 100%;
 
-};
+}
 
 h1 {
 
-};
+}
 
 h2 {
 
-};
+}
 
 img {
+  background-size:cover;
 
-
-};
-
-nav {
-
-
-};
+}
 
 nav ul {
+list-style-type: none;
+
+}
+
+a {
+display: inline-block;
+float: left;
+text-decoration: none;
+
+}
+
+.recent {
 
 
+}
 
-};
+.first {
+
+  
+}
