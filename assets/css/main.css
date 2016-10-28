@@ -5,12 +5,12 @@ max-width: 100%;
 }
 
 h1 {
-font-family: 'Bungee Hairline', cursive;
+font-family: 'Bungee Hairline', sans-serif;;
 font-size: 60px;
 }
 
 h2 {
-font-family:
+font-family: 'Exo', sans-serif;
 }
 
 img {
@@ -45,6 +45,7 @@ float: left;
 background-color: #ccc;
 height: 200px;
 width: 40%;
+margin-top: 20px;
 }
 
 .contactIcons {
