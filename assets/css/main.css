@@ -1,14 +1,16 @@
 /* custom styles */
 body {
 max-width: 100%;
+/* background-image: url("assets/imgs/background_image.jpg");*/
 }
 
 h1 {
-
+font-family: 'Bungee Hairline', cursive;
+font-size: 60px;
 }
 
 h2 {
-
+font-family:
 }
 
 img {
