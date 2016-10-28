@@ -1,7 +1,6 @@
 /* custom styles */
 body {
 max-width: 100%;
-
 }
 
 h1 {
@@ -13,20 +12,22 @@ h2 {
 }
 
 img {
-  background-size:cover;
-
+  background-size: cover;
+  max-width: 100%;
+  display: inline-block;
+  margin: 0 auto;
 }
 
 nav ul {
 list-style-type: none;
-
+padding-bottom: 10px;
 }
 
-a {
+nav ul li a {
 display: inline-block;
 float: left;
 text-decoration: none;
-
+padding-right: 30px;
 }
 
 /*.works {
@@ -42,7 +43,20 @@ height: 200px;
 width: 40%;
 }
 
-footer {
+.contactIcons {
+    display: block;
+    margin: 0 auto;
+    padding-top: 30px;
+    width: 30px;
+    height: 30px;
+}
 
+#page-wrapper {
+
+
+
+}
+
+footer {
 clear: both;
 }
