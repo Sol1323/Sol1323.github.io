@@ -4,9 +4,9 @@
 TODO: Here you will find my portfolio with information about me and my work. This is a website in progress that it will be updated with all the recent works performed during the WDI-33 course in General Assembly, San Francisco, CA.
 
 ## Installation
-TODO: Describe the installation process?????
+TODO:
 ## Usage
-TODO: Feel free to navigate, contact me and share my portfolio.  
+TODO: Feel free to navigate, contact me and/or share my portfolio.  
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
